@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Dodkdo' ,cursive;
+    border-color: red;
+    border:10px;
+}
+#add-device-button{
+    background-color: yellow;
+    background-image: url(imaages/)
+}
+
+.photo-btn{
+    background-color: blueviolet;
+    color: white;
+}
+
+.review-btn{
+    background-color: blue;
+    color: black;
+}
